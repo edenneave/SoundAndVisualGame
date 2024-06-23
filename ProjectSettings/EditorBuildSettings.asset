@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Home Planet Test.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/00-NarrativeScreen.unity
+    guid: fc96ae6b1d9fb734ab19762b9247a188
+  - enabled: 1
+    path: Assets/Scenes/0-Home.unity
+    guid: 3b0164860dc0a9d4cba4e15b32b74386
+  - enabled: 1
+    path: Assets/Scenes/2-Home.unity
+    guid: 7f3044715625a9d4a9dddfcd864aa02c
+  - enabled: 1
+    path: Assets/Scenes/4-Home.unity
+    guid: 52f2b7c8b12fe5f4cbd861261b320acd
+  - enabled: 1
+    path: Assets/Scenes/6-Home.unity
+    guid: 0c2f6e55c32ded143b4219770e27d19e
+  - enabled: 1
+    path: Assets/Scenes/8-Home.unity
+    guid: d478db6876bf1014aa8609a47900fdcb
+  - enabled: 1
+    path: Assets/Scenes/10-Home.unity
+    guid: 410dcb1900d306b4d98d39e23c76f1fc
+  - enabled: 1
+    path: Assets/Scenes/1-Game.unity
+    guid: 7bb9560e54f37df42945b7bc01154fbe
+  - enabled: 1
+    path: Assets/Scenes/3-Game.unity
+    guid: beb9b79a95704f249a37c325505c4c99
+  - enabled: 1
+    path: Assets/Scenes/5-Game.unity
+    guid: a7e4285135e05704faea403917626fe0
+  - enabled: 1
+    path: Assets/Scenes/7-Game.unity
+    guid: f54ee8604055d4a458646fd5aca92649
+  - enabled: 1
+    path: Assets/Scenes/9-Game.unity
+    guid: f7354e6e9b6c0a240ae8999ce6887f0c
+  m_configObjects: {}

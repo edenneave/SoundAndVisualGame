@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Breakable
+  - IcyPlanet
+  - LavaPlanet
+  - CloudPlanet
+  - CavePlanet
+  - ForestPlanet
+  - BlueDrop
+  - Home2
+  - Home4
+  - Home6
+  - Home8
+  - Home10
+  - Monster1
+  - Monster2
+  - Lava1
+  - Lava2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2281358069
+    locked: 0
+  - name: white panel
+    uniqueID: 2062534569
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
